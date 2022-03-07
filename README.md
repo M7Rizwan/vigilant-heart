@@ -1,20 +1,22 @@
 # vigilant-heart
-👋 MySelf Rizwan
-
-## From
-Sri Lanka 🇱🇰 
+Rizwan 👨
 
 ## DOB
 07-April 
 
-## About Me 🏷
-Working at:
-Spinneys - Abu Dhabi LLC (2004-Current)
-Current Branch: Spinneys-Yas West Branch
+## From
+Sri Lanka ![image](https://user-images.githubusercontent.com/101087687/157079119-7b5a5c89-6216-4086-b86d-e73a3bd12ce7.png) 
 
-> Website:
-FOR MORE:[Spinneys![image](https://user-images.githubusercontent.com/101087687/157077909-3a31394b-44ab-4da7-a804-58cec8dfe1cc.png)
-](https://www.spinneys.com/en-ae/).
+Living At: United Arab Emirates ![image](https://user-images.githubusercontent.com/101087687/157079589-44d52757-a4fe-425f-a52c-ed1dcd1bee5a.png)
+
+## About Me 📝
+Working at:
+Spinneys UAE - Abu Dhabi LLC 🏬
+< Branches
+   - Spinneys Khalidiya < Dec 2014 ➥ Jan 2022 
+     - Spinneys Yas West < Feb 2022
+> Website
+FOR MORE:[Spinneys UAE ![image](https://user-images.githubusercontent.com/101087687/157078639-17ab736e-de04-4a2d-b9e5-9e556a4e33df.png)](https://www.spinneys.com/en-ae/).
 
 
 
