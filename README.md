@@ -1,24 +1,47 @@
-# vigilant-heart
-Rizwan 👨
+#### vigilant-heart 
 
-## DOB
-07-April 
-
-## From
-Sri Lanka ![image](https://user-images.githubusercontent.com/101087687/157079119-7b5a5c89-6216-4086-b86d-e73a3bd12ce7.png) 
-
-Living At: United Arab Emirates ![image](https://user-images.githubusercontent.com/101087687/157079589-44d52757-a4fe-425f-a52c-ed1dcd1bee5a.png)
-
-## About Me 📝
-Working at:
-Spinneys UAE - Abu Dhabi LLC 🏬
-< Branches
-   - Spinneys Khalidiya < Dec 2014 ➥ Jan 2022 
-     - Spinneys Yas West < Feb 2022
-> Website
-FOR MORE:[Spinneys UAE ![image](https://user-images.githubusercontent.com/101087687/157078639-17ab736e-de04-4a2d-b9e5-9e556a4e33df.png)](https://www.spinneys.com/en-ae/).
+<h4> Rizwan 👨 </h4>
 
 
+#### DOB 
 
+<h4> 07-April </h4>
+
+
+#### From
+
+<h4> Sri Lanka </h4>
+
+
+#### Living at
+
+<h4> United Arab Emirates </h4>
+ 
+
+#### About Me 
+
+Working at: <h4> Spinneys UAE - Abu Dhabi LLC  🏬 </h4> 
+
+Joined : Nov 2014 
+
+> #### Web: [Spinneys UAE](https://www.spinneys.com/en-ae/).
+___________________________________________________________
+
+> Branches 
+
+Spinneys Khalidiya - `Dec 2014 ➥ Jan 2022` 
+
+Spinneys Yas West - `Feb 2022` 
+
+
+> Achievements:
+
+#### Employee of Month (June - 17) `Certified`
+
+#### Employee of Region (July - 17) `Certified`
+
+
+
+![image](https://user-images.githubusercontent.com/101087687/157094095-c4915eec-4e9b-4712-9983-bc89a8aac9a7.png)
 
 
