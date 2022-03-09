@@ -20,18 +20,27 @@
 
 #### About Me 
 
-Working at: <h4> Spinneys UAE - Abu Dhabi LLC  🏬 </h4> 
+Working at: 
 
-Joined : Nov 2014 
+<h4> Spinneys UAE - Abu Dhabi LLC  🏬 </h4> 
 
-> #### Web: [Spinneys UAE](https://www.spinneys.com/en-ae/).
-___________________________________________________________
+
+Joined : 
+Nov 2014 
+
 
 > Branches 
 
 Spinneys Khalidiya - `Dec 2014 ➥ Jan 2022` 
 
 Spinneys Yas West - `Feb 2022` 
+
+
+
+> #### Web: [Spinneys UAE](https://www.spinneys.com/en-ae/).
+ 
+___________________________________________________________
+
 
 
 > Achievements:
